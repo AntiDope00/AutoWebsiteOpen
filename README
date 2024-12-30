@@ -1,5 +1,4 @@
-Simple program to annoy your friends
-Auto openswebsites after every interval (currently 5 seconds) for a duration
+Programe to auto open websites after every interval (currently 5 seconds) for a stated duration
 To Run program
     program.py
     enter password: PCName69
